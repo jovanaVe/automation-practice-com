@@ -62,6 +62,4 @@ public class ElementsTests extends BaseTest {
         endToEnd.click_payment();
         endToEnd.click_confirm();
     }
-
-
 }
